@@ -43,7 +43,7 @@ func main() {
 	//подключаемся к бд
 	db, _ := sql.Open("mysql", "root:nordic123@tcp(database:3306)/bot_data")
 
-	//создаем массив под id юзеров
+	//создаем массив под id юзеров bdfggdfgfdgfdgfdfdgfdgfdgdffdfdfdgfdfgfd
 	users := []int{}
 
 	//offset
